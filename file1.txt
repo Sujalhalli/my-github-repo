@@ -1,1 +1,2 @@
 Hello Github!
+added more info to file1
